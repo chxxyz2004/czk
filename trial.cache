@@ -2,7 +2,7 @@
 email  akkzpnt507@futuramind.com
 last_checkin  2023-07-31 00:30:02.848729+08:00
 node_n  93
-sub_info  173.2M  1.244G  2023-08-01 00:30:02+08:00  (剩余 1.075G 19:32:05.897870)
+sub_info  174.3M  1.244G  2023-08-01 00:30:02+08:00  (剩余 1.074G 19:19:42.794486)
 sub_url  https://network.ayucloud.nl/link/rsY1qdjzBpliFDmd?clash=1
 time  2023-07-31 00:30:03.527177+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
