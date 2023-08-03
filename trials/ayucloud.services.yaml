@@ -223,6 +223,13 @@ rules:
 - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
 - DOMAIN,log.mmstat.com,🎯 全球直连
 - DOMAIN,sycm.mmstat.com,🎯 全球直连
+- DOMAIN-SUFFIX,blog.google,🎯 全球直连
+- DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
+- DOMAIN,clientservices.googleapis.com,🎯 全球直连
+- DOMAIN,dl.google.com,🎯 全球直连
+- DOMAIN,dl.l.google.com,🎯 全球直连
+- DOMAIN,update.googleapis.com,🎯 全球直连
+- DOMAIN,translate.googleapis.com,🎯 全球直连
 - DOMAIN,fonts.googleapis.com,🎯 全球直连
 - DOMAIN,fonts.gstatic.com,🎯 全球直连
 - DOMAIN,mtalk.google.com,🎯 全球直连
