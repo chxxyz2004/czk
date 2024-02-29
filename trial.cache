@@ -2,6 +2,7 @@
 email  wlyswkos66@miteon.com
 last_checkin  2024-02-29 05:19:22.358502+08:00
 node_n  98
-sub_info  0B  1.103G  2024-03-01 05:19:22+08:00  (剩余 1.103G 17:55:06.923280)
+sub_info  0B  1.103G  2024-03-01 05:19:22+08:00  (剩余 1.103G 14:51:45.647684)
 sub_url  https://network.ayucloud.nl/link/gsyWF9QGp92GPkj8?clash=1
 time  2024-02-29 05:19:23.199271+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
