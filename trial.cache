@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  qhnaqpvp265@miteon.com
-last_checkin  2024-03-01 05:23:52.610315+08:00
+last_checkin  2024-03-02 02:27:46.943647+08:00
 node_n  98
-sub_info  0B  1.014G  2024-03-02 05:23:52+08:00  (剩余 1.014G 6:00:36.923436)
+sub_info  0B  1.637G  2024-03-02 05:23:52+08:00  (剩余 1.637G 2:55:57.633527)
 sub_url  https://network.ayucloud.nl/link/AIAKnieMu5LKZL8G?clash=1
 time  2024-03-01 05:23:53.530480+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
