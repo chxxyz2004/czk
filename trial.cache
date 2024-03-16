@@ -2,6 +2,7 @@
 email  zszhodsz756@nqmo.com
 last_checkin  2024-03-16 05:18:45.110067+08:00
 node_n  98
-sub_info  0B  1.175G  2024-03-17 05:18:44+08:00  (剩余 1.175G 17:55:35.019969)
+sub_info  0B  1.175G  2024-03-17 05:18:44+08:00  (剩余 1.175G 14:54:04.521220)
 sub_url  https://network.ayucloud.nl/link/T9sSFAbCG85Qo0gp?clash=1
 time  2024-03-16 05:18:45.906519+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
