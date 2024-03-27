@@ -2,6 +2,7 @@
 email  ouiterpz813@guerrillamail.biz
 last_checkin  2024-03-27 05:24:29.117831+08:00
 node_n  98
-sub_info  0B  1.01G  2024-03-28 05:24:28+08:00  (剩余 1.01G 23:59:50.888620)
+sub_info  0B  1.01G  2024-03-28 05:24:28+08:00  (剩余 1.01G 20:03:42.911017)
 sub_url  https://network.ayucloud.nl/link/eBcDXhU8ggzzL79c?clash=1
 time  2024-03-27 05:24:30.010953+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
