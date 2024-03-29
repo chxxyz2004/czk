@@ -2,6 +2,7 @@
 email  mcljuwcd785@miteon.com
 last_checkin  2024-03-29 05:21:33.737051+08:00
 node_n  98
-sub_info  0B  1.192G  2024-03-30 05:21:33+08:00  (剩余 1.192G 14:55:02.814765)
+sub_info  0B  1.192G  2024-03-30 05:21:33+08:00  (剩余 1.192G 11:58:54.486582)
 sub_url  https://network.ayucloud.nl/link/RkDShvoJUlsVbq1n?clash=1
 time  2024-03-29 05:21:34.704166+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
