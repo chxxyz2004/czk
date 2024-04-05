@@ -2,7 +2,7 @@
 email  wdadhpvgw692@yzm.de
 last_checkin  2024-04-05 09:22:06.313540+08:00
 node_n  98
-sub_info  0B  1.106G  2024-04-06 09:22:05+08:00  (剩余 1.106G 12:45:42.540063)
+sub_info  0B  1.106G  2024-04-06 09:22:05+08:00  (剩余 1.106G 9:59:59.762806)
 sub_url  https://network.ayucloud.nl/link/HfumcUTb1vE4nVil?clash=1
 time  2024-04-05 09:22:07.188133+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
