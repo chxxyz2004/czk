@@ -2,7 +2,7 @@
 email  faozywqw720@gmail.com
 last_checkin  2024-04-22 11:24:20.369242+08:00
 node_n  98
-sub_info  0B  1.153G  2024-04-23 11:24:20+08:00  (剩余 1.153G 14:44:38.483521)
+sub_info  0B  1.153G  2024-04-23 11:24:20+08:00  (剩余 1.153G 12:01:25.916772)
 sub_url  https://network.ayucloud.nl/link/uaMenOFkmiycE3lm?clash=1
 time  2024-04-22 11:24:21.255085+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
