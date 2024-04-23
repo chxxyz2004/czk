@@ -2,6 +2,7 @@
 email  bqehlbtas157@gmail.com
 last_checkin  2024-04-23 11:22:49.776476+08:00
 node_n  98
-sub_info  0B  1.168G  2024-04-24 11:22:49+08:00  (剩余 1.168G 23:59:48.594804)
+sub_info  0B  1.168G  2024-04-24 11:22:49+08:00  (剩余 1.168G 20:52:43.475976)
 sub_url  https://network.ayucloud.nl/link/jjR9zQC8TX5XeiXw?clash=1
 time  2024-04-23 11:22:50.676893+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
