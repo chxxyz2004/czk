@@ -2,6 +2,7 @@
 email  blpynjyj802@qabq.com
 last_checkin  2024-04-29 02:25:13.023293+08:00
 node_n  98
-sub_info  0B  1.704G  2024-04-29 11:24:26+08:00  (剩余 1.704G 6:04:25.745088)
+sub_info  0B  1.704G  2024-04-29 11:24:26+08:00  (剩余 1.704G 1:53:26.986654)
 sub_url  https://network.ayucloud.nl/link/3vUmj4OvNcjaawDU?clash=1
 time  2024-04-28 11:24:27.188364+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
