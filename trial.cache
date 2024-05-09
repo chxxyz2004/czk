@@ -2,6 +2,7 @@
 email  lrbabtmvk689@uuf.me
 last_checkin  2024-05-09 02:27:59.466479+08:00
 node_n  98
-sub_info  0B  1.806G  2024-05-09 14:25:29+08:00  (剩余 1.806G 9:01:54.096158)
+sub_info  0B  1.806G  2024-05-09 14:25:29+08:00  (剩余 1.806G 4:54:32.222413)
 sub_url  https://network.ayucloud.nl/link/oUVqcwLBVrLXoEhb?clash=1
 time  2024-05-08 14:25:30.337281+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
