@@ -2,7 +2,9 @@
 email  flesvgej742@qabq.com
 last_checkin  2024-05-13 02:28:01.419807+08:00
 node_n  98
-sub_info  0B  1.689G  2024-05-13 17:23:36+08:00  (剩余 1.689G -1 day, 23:59:38.145564)
+sub_info  0B  0B  2024-05-13 17:23:36+08:00  (剩余 0B -1 day, 20:42:17.013333)
 sub_url  https://network.ayucloud.nl/link/FKOHdAZaJDnM0ZBU?clash=1
 time  2024-05-12 17:23:37.427300+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(fxpervqvf539@gmail.com): HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=5)
+保存base64订阅失败  no content
+保存clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  发送邮箱验证码失败(fucxbzcj428@gmail.com): HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=5)
