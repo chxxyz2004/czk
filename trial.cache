@@ -2,6 +2,7 @@
 email  wywsagycp888@grr.la
 last_checkin  2024-05-15 02:28:16.000441+08:00
 node_n  98
-sub_info  0B  1.709G  2024-05-15 23:27:57+08:00  (剩余 1.709G 8:59:07.426771)
+sub_info  0B  1.709G  2024-05-15 23:27:57+08:00  (剩余 1.709G 6:03:12.040301)
 sub_url  https://network.ayucloud.nl/link/8qUDBeUfLwVlkNbH?clash=1
 time  2024-05-14 23:27:58.581036+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
