@@ -2,7 +2,7 @@
 email  wlfwjfle908@spam4.me
 last_checkin  2024-06-09 02:28:44.038085+08:00
 node_n  98
-sub_info  20.2M  1.063G  2024-06-10 02:28:43+08:00  (剩余 1.044G 9:05:04.387487)
+sub_info  22.52M  1.063G  2024-06-10 02:28:43+08:00  (剩余 1.041G 5:48:27.326117)
 sub_url  https://network.ayucloud.nl/link/yRaOIG660BzG0bKX?clash=1
 time  2024-06-09 02:28:44.636111+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
