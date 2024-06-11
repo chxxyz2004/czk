@@ -2,6 +2,7 @@
 email  aojguef206@guerrillamail.com
 last_checkin  2024-06-11 02:31:34.015485+08:00
 node_n  98
-sub_info  0B  1.101G  2024-06-12 02:31:33+08:00  (剩余 1.101G 15:04:49.231541)
+sub_info  0B  1.101G  2024-06-12 02:31:33+08:00  (剩余 1.101G 12:00:46.146863)
 sub_url  https://network.ayucloud.nl/link/lc2BIkzfJez4LTfT?clash=1
 time  2024-06-11 02:31:34.760307+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
