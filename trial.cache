@@ -1,8 +1,8 @@
 [ayucloud.services]
 email  yywjzax396@end.tw
-last_checkin  2024-06-14 02:32:06.430075+08:00
+last_checkin  2024-06-15 02:30:36.786694+08:00
 node_n  98
-sub_info  14.31M  1.019G  2024-06-15 02:32:06+08:00  (剩余 1.005G 3:05:04.133687)
+sub_info  14.31M  1.705G  2024-06-15 02:32:06+08:00  (剩余 1.691G 0:01:03.230316)
 sub_url  https://network.ayucloud.nl/link/j1XTXyId62NpMo15?clash=1
 time  2024-06-14 02:32:07.332765+08:00
-保存base64订阅失败  no content
+更新订阅链接/续费续签失败  发送邮箱验证码失败(aaktlpg846@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error {"@context":"\/contexts\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}
