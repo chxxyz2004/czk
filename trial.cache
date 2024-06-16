@@ -2,6 +2,7 @@
 email  scejjfomz847@uuf.me
 last_checkin  2024-06-16 09:43:12.526729+08:00
 node_n  98
-sub_info  0B  1.219G  2024-06-17 09:43:12+08:00  (剩余 1.219G 23:59:52.039072)
+sub_info  0B  1.219G  2024-06-17 09:43:12+08:00  (剩余 1.219G 22:16:18.041516)
 sub_url  https://network.ayucloud.nl/link/uKFc682EMWj1ZJTP?clash=1
 time  2024-06-16 09:43:13.402451+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
