@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  pvkgrtmq370@sharklasers.com
-last_checkin  2024-06-24 14:33:28.070642+08:00
+last_checkin  2024-06-25 02:29:47.800435+08:00
 node_n  98
-sub_info  0B  1.231G  2024-06-25 14:33:27+08:00  (剩余 1.231G 15:07:50.633254)
+sub_info  0B  1.88G  2024-06-25 14:33:27+08:00  (剩余 1.88G 12:03:28.054200)
 sub_url  https://network.ayucloud.nl/link/SHwxaUJpvXQ22oMy?clash=1
 time  2024-06-24 14:33:28.971930+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
