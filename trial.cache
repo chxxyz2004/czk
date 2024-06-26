@@ -2,6 +2,7 @@
 email  hhekrafhd247@guerrillamail.com
 last_checkin  2024-06-26 14:32:38.056998+08:00
 node_n  98
-sub_info  0B  1.156G  2024-06-27 14:32:37+08:00  (剩余 1.156G 23:59:51.553061)
+sub_info  0B  1.156G  2024-06-27 14:32:37+08:00  (剩余 1.156G 21:06:10.016389)
 sub_url  https://network.ayucloud.nl/link/0RBIR1Pblz2LaUcK?clash=1
 time  2024-06-26 14:32:38.946382+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
