@@ -2,6 +2,7 @@
 email  qfbcieki529@maxamba.com
 last_checkin  2024-06-27 14:31:25.628426+08:00
 node_n  98
-sub_info  0B  1.119G  2024-06-28 14:31:25+08:00  (剩余 1.119G 23:59:51.736906)
+sub_info  0B  1.119G  2024-06-28 14:31:25+08:00  (剩余 1.119G 21:06:25.894523)
 sub_url  https://network.ayucloud.nl/link/cGRg6l2cLP5Od3M2?clash=1
 time  2024-06-27 14:31:26.564391+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
