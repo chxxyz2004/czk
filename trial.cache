@@ -2,6 +2,7 @@
 email  jkihiorbw462@yzm.de
 last_checkin  2024-07-05 14:32:31.970551+08:00
 node_n  98
-sub_info  0B  1.17G  2024-07-06 14:32:31+08:00  (剩余 1.17G 23:59:50.521663)
+sub_info  0B  1.17G  2024-07-06 14:32:31+08:00  (剩余 1.17G 21:06:04.985815)
 sub_url  https://network.ayucloud.nl/link/MtWtcgXbfI2WXr9w?clash=1
 time  2024-07-05 14:32:32.757660+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
