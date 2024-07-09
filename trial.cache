@@ -1,8 +1,8 @@
 [ayucloud.services]
 email  kwsdkpmh679@sharklasers.com
-last_checkin  2024-07-09 20:45:27.454439+08:00
+last_checkin  2024-07-10 02:30:25.689008+08:00
 node_n  98
-sub_info  0B  1.111G  2024-07-10 20:45:27+08:00  (剩余 1.111G 21:20:10.566666)
+sub_info  0B  1.864G  2024-07-10 20:45:27+08:00  (剩余 1.864G 18:14:55.506036)
 sub_url  https://network.ayucloud.nl/link/DyUi0B7n19jFAsfA?clash=1
 time  2024-07-09 20:45:28.254132+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
