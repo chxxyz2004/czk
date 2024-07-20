@@ -2,6 +2,7 @@
 email  okcfeynkq703@sharklasers.com
 last_checkin  2024-07-20 02:31:11.755270+08:00
 node_n  98
-sub_info  38.72M  1.021G  2024-07-21 02:31:11+08:00  (剩余 1007M 15:03:33.629670)
+sub_info  52.44M  1.021G  2024-07-21 02:31:11+08:00  (剩余 993.6M 11:59:15.580203)
 sub_url  https://network.ayucloud.nl/link/1tYKPCcxC4j752q1?clash=1
 time  2024-07-20 02:31:12.606599+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
