@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  irlwvxku531@lista.cc
-last_checkin  2024-07-22 05:21:58.500129+08:00
+last_checkin  2024-07-23 02:30:34.682399+08:00
 node_n  98
-sub_info  0B  1.02G  2024-07-23 05:21:58+08:00  (剩余 1.02G 5:55:16.945135)
+sub_info  2.769M  1.612G  2024-07-23 05:21:58+08:00  (剩余 1.61G 2:51:18.974392)
 sub_url  https://network.ayucloud.nl/link/plLy8sXrthKL8lz0?clash=1
 time  2024-07-22 05:21:59.383338+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
