@@ -2,6 +2,7 @@
 email  jhanjht641@spam4.me
 last_checkin  2024-08-12 09:45:01.775462+08:00
 node_n  98
-sub_info  0B  1.055G  2024-08-13 09:45:01+08:00  (剩余 1.055G 22:17:02.675517)
+sub_info  0B  1.055G  2024-08-13 09:45:01+08:00  (剩余 1.055G 19:11:23.285434)
 sub_url  https://network.ayucloud.nl/link/yiYjgmhKt8JJmdaO?clash=1
 time  2024-08-12 09:45:02.564960+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
