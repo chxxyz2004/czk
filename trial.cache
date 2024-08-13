@@ -2,6 +2,7 @@
 email  ynbiogx703@grr.la
 last_checkin  2024-08-13 09:44:08.684973+08:00
 node_n  99
-sub_info  0B  1.213G  2024-08-14 09:44:08+08:00  (剩余 1.213G 19:10:29.921401)
+sub_info  0B  1.213G  2024-08-14 09:44:08+08:00  (剩余 1.213G 16:17:14.059290)
 sub_url  https://network.ayucloud.nl/link/aRywoSvZHskZ29MO?clash=1
 time  2024-08-13 09:44:09.485330+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
