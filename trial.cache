@@ -2,7 +2,7 @@
 email  xworypl147@guerrillamail.net
 last_checkin  2024-08-15 11:26:28.871194+08:00
 node_n  99
-sub_info  0B  1.136G  2024-08-16 11:26:28+08:00  (剩余 1.136G 20:52:43.604285)
+sub_info  0B  1.136G  2024-08-16 11:26:28+08:00  (剩余 1.136G 18:00:54.059798)
 sub_url  https://network.ayucloud.nl/link/8kTxqfjAJIBaYiDf?clash=1
 time  2024-08-15 11:26:29.716467+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
