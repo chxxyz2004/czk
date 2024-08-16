@@ -2,6 +2,7 @@
 email  tbzejrqcw700@sharklasers.com
 last_checkin  2024-08-16 14:32:55.030370+08:00
 node_n  99
-sub_info  0B  1.118G  2024-08-17 14:32:54+08:00  (剩余 1.118G 23:58:33.614843)
+sub_info  0B  1.118G  2024-08-17 14:32:54+08:00  (剩余 1.118G 21:05:26.609617)
 sub_url  https://network.ayucloud.nl/link/selbhwW08GHzPjLZ?clash=1
 time  2024-08-16 14:32:55.745229+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
