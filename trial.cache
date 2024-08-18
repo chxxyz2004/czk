@@ -2,6 +2,9 @@
 email  xguaudj128@spam4.me
 last_checkin  2024-08-18 02:29:47.291321+08:00
 node_n  99
-sub_info  0B  1.804G  2024-08-18 17:23:58+08:00  (剩余 1.804G 2:52:27.692689)
+sub_info  0B  0B  2024-08-18 17:23:58+08:00  (剩余 0B -1 day, 23:56:57.483395)
 sub_url  https://network.ayucloud.nl/link/BIALgAuFPqlEKX1O?clash=1
 time  2024-08-17 17:23:59.466253+08:00
+保存base64订阅失败  no content
+保存clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  发送邮箱验证码失败(tvcldiks970@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error {"@context":"\/contexts\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}
