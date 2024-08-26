@@ -2,6 +2,7 @@
 email  hzgxpybs186@nespressopixie.com
 last_checkin  2024-08-26 02:29:13.506167+08:00
 node_n  99
-sub_info  0B  1.771G  2024-08-26 20:42:52+08:00  (剩余 1.771G 15:20:47.889336)
+sub_info  264.8K  1.771G  2024-08-26 20:42:52+08:00  (剩余 1.771G 10:59:13.258972)
 sub_url  https://network.ayucloud.nl/link/c7FH7TEm2nODjWmX?clash=1
 time  2024-08-25 20:42:53.569240+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
