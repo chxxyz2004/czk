@@ -2,6 +2,7 @@
 email  wmcjdfl770@lista.cc
 last_checkin  2024-08-30 02:32:20.258075+08:00
 node_n  99
-sub_info  15.62M  1.735G  2024-08-30 20:47:37+08:00  (剩余 1.72G 18:15:08.424297)
+sub_info  33.9M  1.735G  2024-08-30 20:47:37+08:00  (剩余 1.702G 11:01:19.930609)
 sub_url  https://network.ayucloud.nl/link/Ib8ApzINGO2gCbod?clash=1
 time  2024-08-29 20:47:38.944623+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
