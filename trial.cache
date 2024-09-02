@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  zfagkbd728@guerrillamail.de
-last_checkin  2024-09-02 20:48:54.178193+08:00
+last_checkin  2024-09-03 02:32:08.627250+08:00
 node_n  99
-sub_info  0B  1.111G  2024-09-03 20:48:53+08:00  (剩余 1.111G 21:22:24.090039)
+sub_info  0B  1.752G  2024-09-03 20:48:53+08:00  (剩余 1.752G 18:16:24.676110)
 sub_url  https://network.ayucloud.nl/link/fv2ZZwj2j7vZR0V2?clash=1
 time  2024-09-02 20:48:55.031009+08:00
+保存clash订阅失败  'NoneType' object is not iterable
