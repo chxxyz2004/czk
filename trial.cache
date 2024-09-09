@@ -2,6 +2,7 @@
 email  dscaeyd905@guerrillamail.com
 last_checkin  2024-09-09 20:48:43.086606+08:00
 node_n  99
-sub_info  0B  1.028G  2024-09-10 20:48:42+08:00  (剩余 1.028G 23:59:54.679413)
+sub_info  0B  1.028G  2024-09-10 20:48:42+08:00  (剩余 1.028G 21:20:42.199870)
 sub_url  https://network.ayucloud.nl/link/fFoJWYmwZ49vwTDG?clash=1
 time  2024-09-09 20:48:43.884420+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
