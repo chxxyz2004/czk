@@ -2,6 +2,7 @@
 email  qtrecsryx191@uuf.me
 last_checkin  2024-09-11 02:32:54.814897+08:00
 node_n  99
-sub_info  27.88M  1.801G  2024-09-11 20:49:22+08:00  (剩余 1.774G 6:15:02.587178)
+sub_info  46.92M  1.801G  2024-09-11 20:49:22+08:00  (剩余 1.755G 3:20:52.879750)
 sub_url  https://network.ayucloud.nl/link/qxoutvIXmuCAE9wM?clash=1
 time  2024-09-10 20:49:23.358585+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
