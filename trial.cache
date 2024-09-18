@@ -1,8 +1,8 @@
 [ayucloud.services]
-email  ugmvtxlkh162@qabq.com
-last_checkin  2024-09-18 05:24:19.152249+08:00
+email  dgxxdqw67@guerrillamail.net
+last_checkin  2024-09-18 23:28:25.253622+08:00
 node_n  99
-sub_info  244.1M  1.943G  2024-09-18 23:28:24+08:00  (剩余 1.705G 2:40:35.076152)
-sub_url  https://network.ayucloud.nl/link/jU7RdaeqgYjALh7g?clash=1
-time  2024-09-17 23:28:26.259065+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+sub_info  0B  1.193G  2024-09-19 23:28:25+08:00  (剩余 1.193G 23:59:50.599310)
+sub_url  https://network.ayucloud.nl/link/5iM0sXjglSbE3s0V?clash=1
+time  2024-09-18 23:28:26.017968+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
