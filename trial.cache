@@ -1,8 +1,7 @@
 [ayucloud.services]
 email  seqdaueh704@qabq.com
-last_checkin  2024-09-25 23:29:40.730608+08:00
+last_checkin  2024-09-26 02:34:08.729897+08:00
 node_n  99
-sub_info  0B  1.019G  2024-09-26 23:29:40+08:00  (剩余 1.019G 23:59:51.290629)
+sub_info  0B  1.784G  2024-09-26 23:29:40+08:00  (剩余 1.784G 20:55:22.795250)
 sub_url  https://network.ayucloud.nl/link/bHFpYphGwoS2D5K3?clash=1
 time  2024-09-25 23:29:41.576841+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
