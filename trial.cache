@@ -2,7 +2,6 @@
 email  tjfntrnu642@grr.la
 last_checkin  2024-10-02 02:34:49.672462+08:00
 node_n  99
-sub_info  0B  1.693G  2024-10-02 23:29:16+08:00  (剩余 1.693G 11:55:59.134724)
+sub_info  0B  1.693G  2024-10-02 23:29:16+08:00  (剩余 1.693G 8:53:55.716193)
 sub_url  https://network.ayucloud.nl/link/PqsIA1mwxYsKg2gv?clash=1
 time  2024-10-01 23:29:17.880194+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
