@@ -2,6 +2,7 @@
 email  zhlbtyevi262@qabq.com
 last_checkin  2024-10-08 05:26:05.241812+08:00
 node_n  99
-sub_info  0B  1.257G  2024-10-09 05:26:04+08:00  (剩余 1.257G 14:50:30.271990)
+sub_info  22.48M  1.257G  2024-10-09 05:26:04+08:00  (剩余 1.235G 11:57:56.707588)
 sub_url  https://network.ayucloud.nl/link/eWfRCggM9I6GJCW6?clash=1
 time  2024-10-08 05:26:06.017896+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
