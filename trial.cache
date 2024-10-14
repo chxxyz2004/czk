@@ -2,6 +2,7 @@
 email  embsnkb272@qabq.com
 last_checkin  2024-10-14 05:25:43.902223+08:00
 node_n  99
-sub_info  0B  1.095G  2024-10-15 05:25:43+08:00  (剩余 1.095G 17:49:57.093981)
+sub_info  0B  1.095G  2024-10-15 05:25:43+08:00  (剩余 1.095G 14:49:05.280538)
 sub_url  https://network.ayucloud.nl/link/eBImNQ8iw9j2wv6k?clash=1
 time  2024-10-14 05:25:44.672868+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
