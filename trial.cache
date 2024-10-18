@@ -2,6 +2,7 @@
 email  ogxaszsju540@snapmail.cc
 last_checkin  2024-10-19 02:34:14.552453+08:00
 node_n  99
-sub_info  0B  1.794G  2024-10-19 09:53:47+08:00  (剩余 1.794G 7:18:53.299870)
+sub_info  3.953M  1.794G  2024-10-19 09:53:47+08:00  (剩余 1.79G 4:27:50.347415)
 sub_url  https://network.ayucloud.nl/link/6oKWBnE3ZupaEk4L?clash=1
 time  2024-10-18 09:53:48.302877+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
