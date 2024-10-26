@@ -1,8 +1,8 @@
 [ayucloud.services]
-email  mkrmefojn596@qabq.com
-last_checkin  2024-10-26 02:33:59.675224+08:00
+email  ziennye579@sharklasers.com
+last_checkin  2024-10-26 11:31:56.813566+08:00
 node_n  99
-sub_info  0B  1.829G  2024-10-26 09:54:45+08:00  (剩余 1.829G 0:04:32.033187)
-sub_url  https://network.ayucloud.nl/link/ERlQUb3UdlXFQK2U?clash=1
-time  2024-10-25 09:54:47.030615+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(doofgduu236@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error {"@context":"\/contexts\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}
+sub_info  0B  1.183G  2024-10-27 11:31:56+08:00  (剩余 1.183G 23:59:49.857709)
+sub_url  https://network.ayucloud.nl/link/rBDgwVbI1CEODdKj?clash=1
+time  2024-10-26 11:31:57.757468+08:00
+保存clash订阅失败  'NoneType' object is not iterable
