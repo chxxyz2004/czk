@@ -2,6 +2,7 @@
 email  tdmpvqam85@end.tw
 last_checkin  2024-11-09 17:24:33.349027+08:00
 node_n  99
-sub_info  0B  1.13G  2024-11-10 17:24:33+08:00  (剩余 1.13G 20:38:57.387099)
+sub_info  0B  1.13G  2024-11-10 17:24:33+08:00  (剩余 1.13G 17:57:40.467030)
 sub_url  https://network.ayucloud.nl/link/qEZ3k66PLKW3diri?clash=1
 time  2024-11-09 17:24:34.258766+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
