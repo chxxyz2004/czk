@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  smpktjwg810@guerrillamail.org
-last_checkin  2024-11-19 09:59:13.665549+08:00
+last_checkin  2024-11-20 02:35:45.222101+08:00
 node_n  99
-sub_info  0B  1.149G  2024-11-20 09:59:13+08:00  (剩余 1.149G 10:29:04.558062)
+sub_info  0B  1.823G  2024-11-20 09:59:13+08:00  (剩余 1.823G 7:23:24.519162)
 sub_url  https://network.ayucloud.nl/link/KlOp0YZxu4IHT5vi?clash=1
 time  2024-11-19 09:59:14.475808+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
