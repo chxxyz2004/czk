@@ -2,7 +2,7 @@
 email  bzwktim612@guerrillamail.org
 last_checkin  2024-12-04 11:43:19.181093+08:00
 node_n  99
-sub_info  0B  1.165G  2024-12-05 11:43:18+08:00  (剩余 1.165G 21:04:30.585130)
+sub_info  762.4M  1.165G  2024-12-05 11:43:18+08:00  (剩余 430.6M 18:12:43.989372)
 sub_url  https://network.ayucloud.nl/link/CCXAplzGoQbPLui1?clash=1
 time  2024-12-04 11:43:20.027614+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
