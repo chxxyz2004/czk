@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  cwxyjuu812@nqmo.com
-last_checkin  2024-12-15 10:16:00.460790+08:00
+last_checkin  2024-12-16 02:34:26.547559+08:00
 node_n  99
-sub_info  0B  1.121G  2024-12-16 10:16:00+08:00  (剩余 1.121G 10:48:06.231388)
+sub_info  0B  1.847G  2024-12-16 10:16:00+08:00  (剩余 1.847G 7:41:28.186025)
 sub_url  https://network.ayucloud.nl/link/lUhM2wUrEGYqZgYe?clash=1
 time  2024-12-15 10:16:01.410877+08:00
+保存clash订阅失败  'NoneType' object is not iterable
