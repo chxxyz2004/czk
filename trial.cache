@@ -2,6 +2,7 @@
 email  eomslchi161@qabq.com
 last_checkin  2024-12-18 11:40:04.372378+08:00
 node_n  99
-sub_info  0B  1.21G  2024-12-19 11:40:04+08:00  (剩余 1.21G 21:02:31.759140)
+sub_info  0B  1.21G  2024-12-19 11:40:04+08:00  (剩余 1.21G 18:10:31.911420)
 sub_url  https://network.ayucloud.nl/link/TK1nqCQb6ADT9q1n?clash=1
 time  2024-12-18 11:40:05.278761+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
