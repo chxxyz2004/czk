@@ -2,6 +2,7 @@
 email  tioiqqf882@muatoc.com
 last_checkin  2024-12-23 02:31:17.934626+08:00
 node_n  99
-sub_info  0B  1.776G  2024-12-23 20:45:39+08:00  (剩余 1.776G 18:14:11.703868)
+sub_info  0B  1.776G  2024-12-23 20:45:39+08:00  (剩余 1.776G 15:22:15.121876)
 sub_url  https://network.ayucloud.nl/link/1t8ILEErnOz5gejd?clash=1
 time  2024-12-22 20:45:40.423027+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
