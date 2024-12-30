@@ -2,7 +2,7 @@
 email  nxpqkpsh790@end.tw
 last_checkin  2024-12-30 02:31:22.635262+08:00
 node_n  99
-sub_info  0B  1.771G  2024-12-30 23:25:59+08:00  (剩余 1.771G 11:49:55.412524)
+sub_info  0B  1.771G  2024-12-30 23:25:59+08:00  (剩余 1.771G 8:50:01.038842)
 sub_url  https://network.ayucloud.nl/link/enYYSYWxrhynXTWZ?clash=1
 time  2024-12-29 23:26:01.074429+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
