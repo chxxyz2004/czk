@@ -1,7 +1,8 @@
 [ayucloud.services]
-email  gbateckpz898@uuf.me
-last_checkin  2025-01-11 02:34:23.751405+08:00
+email  sbobels96@guerrillamail.net
+last_checkin  2025-01-11 17:26:01.057673+08:00
 node_n  99
-sub_info  11.47M  1.975G  2025-01-11 17:28:51+08:00  (剩余 1.963G 2:55:44.381992)
-sub_url  https://network.ayucloud.nl/link/DmHih35HtutWEwTZ?clash=1
-time  2025-01-10 17:28:52.584439+08:00
+sub_info  0B  1.025G  2025-01-12 17:26:00+08:00  (剩余 1.025G 23:59:51.693362)
+sub_url  https://network.ayucloud.nl/link/Ca5OuEOPXb9zjbPm?clash=1
+time  2025-01-11 17:26:01.831004+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
