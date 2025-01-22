@@ -2,6 +2,7 @@
 email  aykuqipej822@qabq.com
 last_checkin  2025-01-22 02:34:15.818522+08:00
 node_n  99
-sub_info  0B  1.869G  2025-01-22 20:49:36+08:00  (剩余 1.869G 3:22:22.095883)
+sub_info  0B  1.869G  2025-01-22 20:49:36+08:00  (剩余 1.869G 0:00:02.566022)
 sub_url  https://network.ayucloud.nl/link/7YBNUeRGs3RrtE6u?clash=1
 time  2025-01-21 20:49:37.485784+08:00
+更新订阅链接/续费续签失败  注册失败(ijulerh458@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f17c3ff23b0>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
