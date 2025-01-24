@@ -1,11 +1,7 @@
 [ayucloud.services]
-email  ypnamwc251@end.tw
-last_checkin  2025-01-24 02:34:24.313675+08:00
+email  texadzy165@teihu.com
+last_checkin  2025-01-25 02:33:46.870699+08:00
 node_n  99
-sub_info  0B  1.081G  2025-01-25 02:34:24+08:00  (剩余 1.081G 5:46:28.321330)
-sub_url  https://network.ayucloud.nl/link/761DcgHSv3u0KpqG?clash=1
-time  2025-01-24 02:34:25.151342+08:00
-保存base64订阅失败  no base64
-保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(cebxfwf447@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8e3293a530>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
+sub_info  0B  1.099G  2025-01-26 02:33:46+08:00  (剩余 1.099G 23:59:54.027280)
+sub_url  https://network.ayucloud.nl/link/rd3h1ggYv9swPWVf?clash=1
+time  2025-01-25 02:33:47.647961+08:00
