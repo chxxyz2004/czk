@@ -2,6 +2,7 @@
 email  ypnamwc251@end.tw
 last_checkin  2025-01-24 02:34:24.313675+08:00
 node_n  99
-sub_info  0B  1.081G  2025-01-25 02:34:24+08:00  (剩余 1.081G 9:07:31.006137)
+sub_info  0B  1.081G  2025-01-25 02:34:24+08:00  (剩余 1.081G 5:46:28.321330)
 sub_url  https://network.ayucloud.nl/link/761DcgHSv3u0KpqG?clash=1
 time  2025-01-24 02:34:25.151342+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
