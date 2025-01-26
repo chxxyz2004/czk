@@ -2,6 +2,7 @@
 email  ghwpvqu32@uuf.me
 last_checkin  2025-01-26 23:25:16.795766+08:00
 node_n  99
-sub_info  0B  1.146G  2025-01-27 23:25:16+08:00  (剩余 1.146G 23:59:50.945787)
+sub_info  0B  1.146G  2025-01-27 23:25:16+08:00  (剩余 1.146G 18:01:36.230464)
 sub_url  https://network.ayucloud.nl/link/SHElznAKfYdAaoVJ?clash=1
 time  2025-01-26 23:25:17.569816+08:00
+尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab99be2b30>: Failed to resolve 'ayucloud.services' ([Errno -3] Temporary failure in name resolution)"))
