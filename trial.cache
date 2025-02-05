@@ -1,8 +1,7 @@
 [ayucloud.services]
 email  vvomqnv122@yzm.de
-last_checkin  2025-02-05 05:24:19.315528+08:00
+last_checkin  2025-02-06 02:34:01.182869+08:00
 node_n  99
-sub_info  0B  1.071G  2025-02-06 05:24:18+08:00  (剩余 1.071G 5:56:13.665064)
+sub_info  0B  1.626G  2025-02-06 05:24:18+08:00  (剩余 1.626G 2:50:09.336669)
 sub_url  https://network.ayucloud.nl/link/uFfWh3nmMaEJg6O1?clash=1
 time  2025-02-05 05:24:20.153095+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
