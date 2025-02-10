@@ -2,6 +2,7 @@
 email  lvrdrthe409@grr.la
 last_checkin  2025-02-11 02:35:07.857364+08:00
 node_n  99
-sub_info  0B  1.045G  2025-02-12 02:35:07+08:00  (剩余 1.045G 23:59:55.930379)
+sub_info  0B  1.045G  2025-02-12 02:35:07+08:00  (剩余 1.045G 21:10:28.343876)
 sub_url  https://network.ayucloud.nl/link/TnrvH3GiOzXvrboa?clash=1
 time  2025-02-11 02:35:08.634445+08:00
+保存clash订阅失败  'NoneType' object is not iterable
