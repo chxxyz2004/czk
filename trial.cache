@@ -2,6 +2,7 @@
 email  vbwslpid534@oakon.com
 last_checkin  2025-02-18 02:33:34.433139+08:00
 node_n  99
-sub_info  0B  1.753G  2025-02-18 05:24:56+08:00  (剩余 1.753G 2:51:02.804726)
+sub_info  0B  1.753G  2025-02-18 05:24:56+08:00  (剩余 1.753G 0:00:50.258753)
 sub_url  https://network.ayucloud.nl/link/lcrMwa41SVoAqGHl?clash=1
 time  2025-02-17 05:24:57.408139+08:00
+更新订阅链接/续费续签失败  注册失败(qmncvnhp122@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Read timed out. (read timeout=5)
