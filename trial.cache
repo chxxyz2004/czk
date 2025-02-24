@@ -2,6 +2,7 @@
 email  xsbtxdndy503@end.tw
 last_checkin  2025-02-24 02:31:31.199783+08:00
 node_n  99
-sub_info  0B  1.855G  2025-02-24 23:26:25+08:00  (剩余 1.855G 5:57:07.741844)
+sub_info  0B  1.855G  2025-02-24 23:26:25+08:00  (剩余 1.855G 2:35:06.207938)
 sub_url  https://network.ayucloud.nl/link/ZL2IxdppxARqNEsY?clash=1
 time  2025-02-23 23:26:26.937955+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
