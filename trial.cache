@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  grfiwzw545@sharklasers.com
-last_checkin  2025-02-26 23:31:40.490864+08:00
+last_checkin  2025-02-27 02:35:29.378320+08:00
 node_n  99
-sub_info  0B  1.042G  2025-02-27 23:31:40+08:00  (剩余 1.042G 23:59:53.954532)
+sub_info  0B  1.727G  2025-02-27 23:31:40+08:00  (剩余 1.727G 20:56:05.150386)
 sub_url  https://network.ayucloud.nl/link/1LnNAPF0KZpskJP7?clash=1
 time  2025-02-26 23:31:41.392598+08:00
+保存clash订阅失败  'NoneType' object is not iterable
