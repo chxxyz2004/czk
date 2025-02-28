@@ -2,10 +2,7 @@
 email  tefiwnye743@sharklasers.com
 last_checkin  2025-02-28 02:35:39.171085+08:00
 node_n  99
-sub_info  0B  1.566G  2025-02-28 23:30:25+08:00  (剩余 1.566G 20:54:37.731176)
+sub_info  0B  1.566G  2025-02-28 23:30:25+08:00  (剩余 1.566G 13:34:38.066207)
 sub_url  https://network.ayucloud.nl/link/11hRKqlaFBpnBGSE?clash=1
 time  2025-02-27 23:30:26.506888+08:00
-保存base64订阅失败  no base64
-保存clash订阅失败  while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  获取邮箱验证码超时(hxbbtim305@xxxhi.cc)
+保存clash订阅失败  'NoneType' object is not iterable
