@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  ewftqrkq462@yzm.de
-last_checkin  2025-02-28 23:29:00.367361+08:00
+last_checkin  2025-03-01 05:24:53.566373+08:00
 node_n  99
-sub_info  0B  1.067G  2025-03-01 23:29:00+08:00  (剩余 1.067G 23:59:56.453266)
+sub_info  0B  1.767G  2025-03-01 23:29:00+08:00  (剩余 1.767G 18:03:56.554085)
 sub_url  https://network.ayucloud.nl/link/Suoo653SSvhgeyVQ?clash=1
 time  2025-02-28 23:29:01.289258+08:00
+保存clash订阅失败  get_rules: 获取规则失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
