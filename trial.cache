@@ -1,7 +1,8 @@
 [ayucloud.services]
 email  ltcrdbwcn810@uuf.me
-last_checkin  2025-03-03 20:51:52.006060+08:00
+last_checkin  2025-03-04 02:33:43.401883+08:00
 node_n  99
-sub_info  69.16K  1.066G  2025-03-04 20:51:51+08:00  (剩余 1.066G 21:22:34.565833)
+sub_info  69.16K  1.686G  2025-03-04 20:51:51+08:00  (剩余 1.685G 18:17:41.986231)
 sub_url  https://network.ayucloud.nl/link/wpfECRYebkGezBaw?clash=1
 time  2025-03-03 20:51:52.900024+08:00
+保存clash订阅失败  'NoneType' object is not iterable
