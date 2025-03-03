@@ -2,7 +2,6 @@
 email  hiahyobm127@uuf.me
 last_checkin  2025-03-03 05:24:38.247892+08:00
 node_n  99
-sub_info  0B  1.103G  2025-03-04 05:24:37+08:00  (剩余 1.103G 19:25:45.182096)
+sub_info  69.17K  1.103G  2025-03-04 05:24:37+08:00  (剩余 1.102G 14:47:19.677360)
 sub_url  https://network.ayucloud.nl/link/hArz96a8BMydOUVN?clash=1
 time  2025-03-03 05:24:39.121249+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
