@@ -2,7 +2,7 @@
 email  dvxvzlx287@guerrillamail.com
 last_checkin  2025-03-06 02:37:43.544884+08:00
 node_n  99
-sub_info  0B  1.076G  2025-03-07 02:37:43+08:00  (剩余 1.076G 9:08:59.019993)
+sub_info  427.1M  1.076G  2025-03-07 02:37:43+08:00  (剩余 674.9M 5:45:51.049294)
 sub_url  https://network.ayucloud.nl/link/bpGujKm4x4caZDsy?clash=1
 time  2025-03-06 02:37:44.455769+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+保存clash订阅失败  get_rules: 获取规则失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
