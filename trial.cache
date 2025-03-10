@@ -1,7 +1,11 @@
 [ayucloud.services]
 email  xpjhvwnzv210@oakon.com
-last_checkin  2025-03-10 11:27:08.098181+08:00
+last_checkin  2025-03-11 02:34:44.573159+08:00
 node_n  99
 sub_info  0B  1.107G  2025-03-11 11:27:07+08:00  (剩余 1.107G 11:57:58.652756)
 sub_url  https://network.ayucloud.nl/link/7ooyu1ggeVLGIfSu?clash=1
 time  2025-03-10 11:27:08.963603+08:00
+保存base64订阅失败  no base64
+保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... g==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(wotflzz238@lista.cc)
