@@ -2,7 +2,7 @@
 email  eftnbxc928@qabq.com
 last_checkin  2025-03-15 05:27:22.998287+08:00
 node_n  99
-sub_info  0B  1.197G  2025-03-16 05:27:22+08:00  (剩余 1.197G 23:59:50.049930)
+sub_info  0B  1.197G  2025-03-16 05:27:22+08:00  (剩余 1.197G 19:31:18.594078)
 sub_url  https://network.ayucloud.nl/link/sECBX3oZZUzPoKNj?clash=1
 time  2025-03-15 05:27:23.965751+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
