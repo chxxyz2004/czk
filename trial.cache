@@ -1,10 +1,8 @@
 [ayucloud.services]
-email  zzlwummwx440@guerrillamail.net
-last_checkin  2025-03-24 02:33:52.152594+08:00
+email  nsxzozrgf458@qabq.com
+last_checkin  2025-03-24 23:31:08.190242+08:00
 node_n  99
-sub_info  0B  0B  2025-03-24 20:48:53+08:00  (剩余 0B -1 day, 23:53:20.187198)
-sub_url  https://network.ayucloud.nl/link/U7BGl0KXg53coUGn?clash=1
-time  2025-03-23 20:48:54.850557+08:00
-保存base64订阅失败  no content
-保存clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱验证码超时(mpuwscmlw932@xxxhi.cc)
+sub_info  0B  1.115G  2025-03-25 23:31:07+08:00  (剩余 1.115G 23:59:55.519929)
+sub_url  https://network.ayucloud.nl/link/BvXUv9w6C026LAtu?clash=1
+time  2025-03-24 23:31:09.121180+08:00
+保存clash订阅失败  get_rules: 获取规则失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
