@@ -1,8 +1,8 @@
 [ayucloud.services]
 email  nsxzozrgf458@qabq.com
-last_checkin  2025-03-24 23:31:08.190242+08:00
+last_checkin  2025-03-25 02:37:11.757829+08:00
 node_n  99
-sub_info  0B  1.115G  2025-03-25 23:31:07+08:00  (剩余 1.115G 23:59:55.519929)
+sub_info  0B  1.85G  2025-03-25 23:31:07+08:00  (剩余 1.85G 20:53:50.292968)
 sub_url  https://network.ayucloud.nl/link/BvXUv9w6C026LAtu?clash=1
 time  2025-03-24 23:31:09.121180+08:00
-保存clash订阅失败  get_rules: 获取规则失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存clash订阅失败  'NoneType' object is not iterable
