@@ -2,10 +2,10 @@
 email  vygtuyrw888@guerrillamail.com
 last_checkin  2025-03-27 05:26:10.884568+08:00
 node_n  99
-sub_info  0B  0B  2025-03-27 17:30:13+08:00  (剩余 0B -1 day, 14:52:21.317757)
+sub_info  0B  0B  2025-03-27 17:30:13+08:00  (剩余 0B -1 day, 12:02:30.844837)
 sub_url  https://network.ayucloud.nl/link/RqVAjOo7nUYkmhjq?clash=1
 time  2025-03-26 17:30:14.868333+08:00
 保存base64订阅失败  no content
 保存clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(hdramew374@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f118c847730>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(rhjkjjzn399@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7e64229840>: Failed to establish a new connection: [Errno 111] Connection refused'))
