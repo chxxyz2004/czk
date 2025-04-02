@@ -5,5 +5,7 @@ node_n  99
 sub_info  0B  1.705G  2025-04-02 11:49:36+08:00  (剩余 1.705G 0:05:32.421322)
 sub_url  https://network.ayucloud.nl/link/lg5L6AoIL1S4vgct?clash=1
 time  2025-04-01 11:49:37.795292+08:00
-保存clash订阅失败  get_rules: 获取规则失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-更新订阅链接/续费续签失败  注册失败(cvuucolmc406@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+保存base64订阅失败  no base64
+保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(oxyozuur469@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
