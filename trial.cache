@@ -2,10 +2,10 @@
 email  vtokbldkd278@sharklasers.com
 last_checkin  2025-04-02 02:37:30.175337+08:00
 node_n  99
-sub_info  0B  0B  2025-04-02 11:49:36+08:00  (剩余 0B -3 days, 9:13:08.071801)
+sub_info  0B  0B  2025-04-02 11:49:36+08:00  (剩余 0B -3 days, 6:23:03.444347)
 sub_url  https://network.ayucloud.nl/link/lg5L6AoIL1S4vgct?clash=1
 time  2025-04-01 11:49:37.795292+08:00
 保存base64订阅失败  no content
 保存clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(wmturwd167@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(lnyfmwpk356@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f039f6d2560>: Failed to establish a new connection: [Errno 111] Connection refused'))
