@@ -8,4 +8,4 @@ time  2025-04-01 11:49:37.795292+08:00
 保存base64订阅失败  no base64
 保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(zpkoxijv401@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(hovoqzffu242@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
