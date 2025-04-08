@@ -8,5 +8,5 @@ time  2025-04-01 11:49:37.795292+08:00
 保存base64订阅失败  no base64
 保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe619fe1d50>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
-更新订阅链接/续费续签失败  注册失败(wpcakwjgz509@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe619c03e80>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(jwuudynnc774@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
