@@ -2,7 +2,7 @@
 email  jlrcgjsq128@nqmo.com
 last_checkin  2025-04-15 10:05:48.832052+08:00
 node_n  99
-sub_info  0B  1.119G  2025-04-16 10:05:48+08:00  (剩余 1.119G 10:34:53.302175)
+sub_info  0B  1.119G  2025-04-16 10:05:48+08:00  (剩余 1.119G 7:29:30.954669)
 sub_url  https://network.ayucloud.nl/link/gaUsqCSFvQhBR3Kf?clash=1
 time  2025-04-15 10:05:49.806558+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
