@@ -2,11 +2,10 @@
 email  jlrcgjsq128@nqmo.com
 last_checkin  2025-04-15 10:05:48.832052+08:00
 node_n  99
-sub_info  0B  0B  2025-04-16 10:05:48+08:00  (剩余 0B -10 days, 4:37:39.632812)
+sub_info  0B  0B  2025-04-16 10:05:48+08:00  (剩余 0B -11 days, 22:24:47.944096)
 sub_url  https://network.ayucloud.nl/link/gaUsqCSFvQhBR3Kf?clash=1
 time  2025-04-15 10:05:49.806558+08:00
-保存base64订阅失败  no base64
-保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-保存订阅信息失败  no sub info
+保存base64订阅失败  no content
+保存clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(tbygtsm203@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(elndpkfpq780@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
