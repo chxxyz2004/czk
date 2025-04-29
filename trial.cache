@@ -2,6 +2,7 @@
 email  inkebbq465@spam4.me
 last_checkin  2025-04-29 10:09:38.012993+08:00
 node_n  99
-sub_info  9.185M  1.206G  2025-04-30 10:09:37+08:00  (剩余 1.197G 10:38:20.139081)
+sub_info  9.185M  1.206G  2025-04-30 10:09:37+08:00  (剩余 1.197G 4:42:35.456792)
 sub_url  https://network.ayucloud.nl/link/IyxH815DZ0zRUrRs?clash=1
 time  2025-04-29 10:09:38.964951+08:00
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
