@@ -1,10 +1,8 @@
 [ayucloud.services]
-email  jlrcgjsq128@nqmo.com
-last_checkin  2025-04-29 02:38:16.732332+08:00
+email  inkebbq465@spam4.me
+last_checkin  2025-04-29 10:09:38.012993+08:00
 node_n  99
-sub_info  0B  232M  2025-04-16 10:05:48+08:00  (剩余 232M -13 days, 4:38:52.586641)
-sub_url  https://network.ayucloud.nl/link/gaUsqCSFvQhBR3Kf?clash=1
-time  2025-04-15 10:05:49.806558+08:00
-保存base64订阅失败  no content
-保存clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(wkihxuoy909@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+sub_info  0B  1.206G  2025-04-30 10:09:37+08:00  (剩余 1.206G 23:59:56.962247)
+sub_url  https://network.ayucloud.nl/link/IyxH815DZ0zRUrRs?clash=1
+time  2025-04-29 10:09:38.964951+08:00
+保存clash订阅失败  get_rules: 获取规则失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
