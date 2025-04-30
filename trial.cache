@@ -2,11 +2,10 @@
 email  inkebbq465@spam4.me
 last_checkin  2025-04-29 10:09:38.012993+08:00
 node_n  99
-sub_info  9.185M  1.206G  2025-04-30 10:09:37+08:00  (剩余 1.197G 0:03:24.310381)
+sub_info  0B  0B  2025-04-30 10:09:37+08:00  (剩余 0B -1 day, 13:13:39.141633)
 sub_url  https://network.ayucloud.nl/link/IyxH815DZ0zRUrRs?clash=1
 time  2025-04-29 10:09:38.964951+08:00
-保存base64订阅失败  no base64
-保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-保存订阅信息失败  no sub info
+保存base64订阅失败  no content
+保存clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(egqgrpb459@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(uqcidhe842@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
