@@ -2,7 +2,7 @@
 email  sekxogqnq441@guerrillamail.org
 last_checkin  2025-05-01 11:52:54.022250+08:00
 node_n  99
-sub_info  0B  1.124G  2025-05-02 11:52:53+08:00  (剩余 1.124G 12:22:57.426790)
+sub_info  0B  1.124G  2025-05-02 11:52:53+08:00  (剩余 1.124G 9:13:46.331303)
 sub_url  https://network.ayucloud.nl/link/lkxRctKuiliHatgN?clash=1
 time  2025-05-01 11:52:55.008081+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
