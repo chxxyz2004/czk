@@ -2,7 +2,7 @@
 email  mzaiifcd318@guerrillamail.biz
 last_checkin  2025-04-30 23:31:41.582635+08:00
 node_n  99
-sub_info  0B  1.069G  2025-05-01 23:31:41+08:00  (剩余 1.069G 18:03:27.567184)
+sub_info  0B  1.069G  2025-05-01 23:31:41+08:00  (剩余 1.069G 13:10:06.369282)
 sub_url  https://network.ayucloud.nl/link/8zYnIQ2jya8SxnvG?clash=1
 time  2025-04-30 23:31:42.548247+08:00
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
