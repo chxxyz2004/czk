@@ -1,8 +1,8 @@
 [ayucloud.services]
-email  mzaiifcd318@guerrillamail.biz
-last_checkin  2025-04-30 23:31:41.582635+08:00
+email  sekxogqnq441@guerrillamail.org
+last_checkin  2025-05-01 11:52:54.022250+08:00
 node_n  99
-sub_info  0B  1.069G  2025-05-01 23:31:41+08:00  (剩余 1.069G 13:10:06.369282)
-sub_url  https://network.ayucloud.nl/link/8zYnIQ2jya8SxnvG?clash=1
-time  2025-04-30 23:31:42.548247+08:00
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+sub_info  0B  1.124G  2025-05-02 11:52:53+08:00  (剩余 1.124G 23:59:19.739774)
+sub_url  https://network.ayucloud.nl/link/lkxRctKuiliHatgN?clash=1
+time  2025-05-01 11:52:55.008081+08:00
+保存clash订阅失败  'NoneType' object is not iterable
