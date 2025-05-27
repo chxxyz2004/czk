@@ -2,10 +2,10 @@
 email  ibfwaltw509@uuf.me
 last_checkin  2025-05-19 17:35:06.946316+08:00
 node_n  99
-sub_info  0B  0B  2025-05-20 17:35:06+08:00  (剩余 0B -7 days, 7:19:52.602783)
+sub_info  0B  0B  2025-05-20 17:35:06+08:00  (剩余 0B -7 days, 5:44:33.650644)
 sub_url  https://network.ayucloud.nl/link/kovBSarI4k8mhMRo?clash=1
 time  2025-05-19 17:35:07.942767+08:00
 保存base64订阅失败  no content
 保存clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(jueildii11@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(pqbhagys127@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
