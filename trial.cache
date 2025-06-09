@@ -6,7 +6,7 @@ sub_info  0B  0B  2025-06-02 20:53:49+08:00  (剩余 0B -7 days, 3:20:15.756951)
 sub_url  https://network.ayucloud.nl/link/sfaSo7Dl2fSL68vA?clash=1
 time  2025-06-01 20:53:50.647881+08:00
 保存base64订阅失败  no base64
-保存clash订阅失败  string indices must be integers
+保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(jnxdgav936@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1119a95b10>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
+更新订阅链接/续费续签失败  注册失败(hblzahq805@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fa8127d0>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
