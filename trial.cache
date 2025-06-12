@@ -2,6 +2,7 @@
 email  lgmcxpgan606@grr.la
 last_checkin  2025-06-12 14:44:18.084824+08:00
 node_n  99
-sub_info  0B  1.234G  2025-06-13 14:44:17+08:00  (剩余 1.234G 15:11:35.576818)
+sub_info  0B  1.234G  2025-06-13 14:44:17+08:00  (剩余 1.234G 12:04:09.589328)
 sub_url  https://network.ayucloud.nl/link/0Ziuj9eTXdQtsjMm?clash=1
 time  2025-06-12 14:44:19.060259+08:00
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
