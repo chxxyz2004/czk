@@ -2,7 +2,6 @@
 email  lgmcxpgan606@grr.la
 last_checkin  2025-06-12 14:44:18.084824+08:00
 node_n  99
-sub_info  0B  1.234G  2025-06-13 14:44:17+08:00  (剩余 1.234G 17:45:37.047338)
+sub_info  0B  1.234G  2025-06-13 14:44:17+08:00  (剩余 1.234G 15:11:35.576818)
 sub_url  https://network.ayucloud.nl/link/0Ziuj9eTXdQtsjMm?clash=1
 time  2025-06-12 14:44:19.060259+08:00
-保存clash订阅失败  get_rules: 获取规则失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
