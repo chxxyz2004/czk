@@ -2,11 +2,10 @@
 email  lgmcxpgan606@grr.la
 last_checkin  2025-06-13 10:19:01.416685+08:00
 node_n  99
-sub_info  0B  0B  2025-06-13 14:44:17+08:00  (剩余 0B -14 days, 15:11:04.893391)
+sub_info  0B  0B  2025-06-13 14:44:17+08:00  (剩余 0B -14 days, 4:22:19.027505)
 sub_url  https://network.ayucloud.nl/link/0Ziuj9eTXdQtsjMm?clash=1
 time  2025-06-12 14:44:19.060259+08:00
-保存base64订阅失败  no base64
-保存clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-保存订阅信息失败  no sub info
+保存base64订阅失败  no content
+保存clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(icunxem512@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6bec460070>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
+更新订阅链接/续费续签失败  注册失败(pplwook565@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb8b0d16560>, 'Connection to ayucloud.services timed out. (connect timeout=5)'))
